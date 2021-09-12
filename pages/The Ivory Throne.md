@@ -1,4 +1,4 @@
 Author:: Manu S Pillai,
-tags::
+tags:: book, history, notes, kerala,
 
 -
